@@ -1,0 +1,7 @@
+.task-table,.add-task-table{
+    max-width: 800px;
+    margin: 60px auto;
+}
+.task-heading{
+    text-align: center;
+}
